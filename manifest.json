@@ -1,0 +1,131 @@
+{
+  "vendor": "Analog Devices (Maxim)",
+  "generated": "2026-07-19",
+  "sources": [
+    {
+      "name": "msdk",
+      "url": "https://github.com/analogdevicesinc/msdk",
+      "version": "f7c976853973cdeb3f0ab6009bec601ec9ce396f",
+      "license": "Apache-2.0",
+      "files": 16
+    }
+  ],
+  "files": [
+    {
+      "path": "MAX32/MAX32520.svd",
+      "device": "MAX32520",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32570.svd",
+      "device": "MAX32570",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32572.svd",
+      "device": "MAX32572",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32650.svd",
+      "device": "MAX32650",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32655.svd",
+      "device": "MAX32655",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32657.svd",
+      "device": "MAX32657",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32660.svd",
+      "device": "MAX32660",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32662.svd",
+      "device": "MAX32662",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32665.svd",
+      "device": "MAX32665",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32670.svd",
+      "device": "MAX32670",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32672.svd",
+      "device": "MAX32672",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32675.svd",
+      "device": "MAX32675",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32680.svd",
+      "device": "MAX32680",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX32/MAX32690.svd",
+      "device": "MAX32690",
+      "family": "MAX32",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX78/MAX78000.svd",
+      "device": "MAX78000",
+      "family": "MAX78",
+      "source": "msdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "MAX78/MAX78002.svd",
+      "device": "MAX78002",
+      "family": "MAX78",
+      "source": "msdk",
+      "provenance": "pristine"
+    }
+  ],
+  "stats": {
+    "total_files": 16,
+    "total_bytes": 8126591
+  }
+}
