@@ -1,11 +1,11 @@
 {
   "vendor": "Analog Devices (Maxim)",
-  "generated": "2026-08-10",
+  "generated": "2026-08-17",
   "sources": [
     {
       "name": "msdk",
       "url": "https://github.com/analogdevicesinc/msdk",
-      "version": "f02180b25a21d5306597049446ff8168a3463fbf",
+      "version": "e0446b176b7080098fecddd174317ba47946695e",
       "license": "Apache-2.0",
       "files": 16
     }
