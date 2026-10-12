@@ -4,7 +4,7 @@
  <vendorID>Maxim</vendorID>
  <name>max32662</name>
  <series>ARMCM4</series>
- <version>1.0</version>
+ <version>1.1</version>
  <description>MAX32662 32-bit ARM Cortex-M4F microcontroller, 256KB of flash, 80KB of SRAM, 128KB of Boot ROM.</description>
  <cpu>
   <name>CM4</name>
@@ -8113,25 +8113,22 @@ control comes from GPIO control module</description>
     </register>
    </registers>
   </peripheral>
-<!--PT Pulse Train-->
+<!--PT Pulse Train 1, 2 and 3-->
   <peripheral derivedFrom="PT">
    <name>PT1</name>
    <description>Pulse Train 1</description>
-   <baseAddress>0x4003C030</baseAddress>
+   <baseAddress>0x4003C040</baseAddress>
   </peripheral>
-<!--PT1 Pulse Train 1-->
   <peripheral derivedFrom="PT">
    <name>PT2</name>
    <description>Pulse Train 2</description>
-   <baseAddress>0x4003C040</baseAddress>
+   <baseAddress>0x4003C060</baseAddress>
   </peripheral>
-<!--PT2 Pulse Train 2-->
   <peripheral derivedFrom="PT">
    <name>PT3</name>
    <description>Pulse Train 3</description>
-   <baseAddress>0x4003C050</baseAddress>
+   <baseAddress>0x4003C080</baseAddress>
   </peripheral>
-<!--PT3 Pulse Train 3-->
   <peripheral>
    <name>PTG</name>
    <description>Pulse Train Generation</description>
@@ -11201,7 +11198,7 @@ domain.</description>
   <peripheral derivedFrom="TMR">
    <name>TMR3</name>
    <description>Low-Power Configurable Timer 3</description>
-   <baseAddress>0x40013000</baseAddress>
+   <baseAddress>0x40113000</baseAddress>
    <interrupt>
     <name>TMR3</name>
     <description>TMR3 IRQ</description>
